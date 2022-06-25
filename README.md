@@ -1,37 +1,22 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Guia de Academia
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 180149598  |  Victor Hugo SIqueira COsta  |
+| 180029240  |  Wesley Pedrosa dos Santos  |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Visando ajudar a obter um melhor rendimento durante os treinos na academia, o *Guia de Academia* lhe indicará a melhor sequência de exercícios, baseado nos exercícios que você possuí interesse, seguindo o caminho mais eficiente através de recomendações práticas.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: JavaScript, HTML, CSS<br>
+**Framework**: Svelt, Bootstrap<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
