@@ -5,7 +5,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 180149598  |  Victor Hugo SIqueira COsta  |
+| 180149598  |  Victor Hugo SIqueira Costa  |
 | 180029240  |  Wesley Pedrosa dos Santos  |
 
 ## Sobre 
@@ -16,7 +16,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: JavaScript, HTML, CSS<br>
-**Framework**: Svelt, Bootstrap<br>
+**Framework**: Svelte, Bootstrap<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
