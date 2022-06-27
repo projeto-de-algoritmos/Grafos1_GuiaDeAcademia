@@ -1,6 +1,7 @@
 import { writable } from "svelte/store";
 
-export const exercicios_selecionados = writable([])
+export let mostrar_sequencia = writable(false)
+export let exercicios_selecionados = writable([])
 
 export const abdominal = writable({
     name: 'Abdominal',
