@@ -16,15 +16,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: JavaScript, HTML, CSS<br>
-**Framework**: Svelte, Bootstrap<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Framework**: Svelte<br>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Requisitos: npm e nodejs instalados
+Instalação: mover para a pasta do diretório do projto e rodar 'npm install' e 'npm run dev', depois no navegador abrir a porta local 3000: 'lhost:3000/'
