@@ -12,11 +12,18 @@
 Visando ajudar a obter um melhor rendimento durante os treinos na academia, o *Guia de Academia* lhe indicará a melhor sequência de exercícios, baseado nos exercícios que você possuí interesse, seguindo o caminho mais eficiente através de recomendações práticas.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+<img src="./Prints/Imagem01.png" alt="Imagem01"/>
+<img src="./Prints/Imagem02.png" alt="Imagem02"/>
+<img src="./Prints/Imagem03.png" alt="Imagem03"/>
+
 
 ## Instalação 
 **Linguagem**: JavaScript, HTML, CSS<br>
 **Framework**: Svelte<br>
 
-Requisitos: npm e nodejs instalados
-Instalação: mover para a pasta do diretório do projto e rodar 'npm install' e 'npm run dev', depois no navegador abrir a porta local 3000: 'lhost:3000/'
+Requisitos: npm e nodejs instalados<br>
+Instalação:<br>
+1°: Mover para a pasta do diretório do projeto: "cd Grafos1_GuiaDeAcademia/Guia-de-Academia". 
+2°: Rodar 'npm install' e 'npm run dev'. 
+3°: No navegador abrir a porta local 3000: 'localhost:3000/'.<br>
